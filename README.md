@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leomel266
 - 👀 I’m interested in ...working on new proyects
-- 🌱 I’m currently learning ... python, Sql, MySQL, Postgres, Django, Bootstrap
 - 💞️ I’m looking to collaborate on ...with other people
 - 📫 How to reach me ...just send me a messege to may mail:D. leomel2603@gmail.com
 
